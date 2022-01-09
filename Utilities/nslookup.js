@@ -2,7 +2,7 @@
 节点IP信息查询
 
 [general]
-geo_location_checker=http://ip-api.com/json/, https://raw.githubusercontent.com/787a68/Quantumult-X/main/Script/nslookup.js
+geo_location_checker=http://ip-api.com/json/, https://raw.githubusercontent.com/787a68/Script/main/Utilities/nslookup.js
 
 geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/787a68/Script/main/Utilities/nslookup.js
 
